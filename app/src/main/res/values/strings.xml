@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Repaso</string>
+
+    <string name="dos">
+       <br> Lorem ipsum </br>
+        dolor sit amet consectetur adipiscing
+        elit sed arcu litora feugiat, leo pulvinar scelerisque sociis ullamcorper porta platea aliquam nascetur cubilia sollicitudin,
+        pharetra fringilla euismod magna fermentum at cras consequat eleifend cum. Donec porttitor quis sollicitudin mollis placerat per proin venenatis, arcu taciti ull
+        amcorper morbi dictumst convallis diam, enim consequat suscipit varius accumsan vivamus massa. Nam feugiat vestibulum nulla egestas sollicitudin semper iaculis nec donec sagittis quam nostra ornare vel sem lacinia aliquet risus, tristique penatibus duis convallis maecenas aptent eros natoque mi eleifend ad bibendum id ac ullamcorper commodo praesent.
+
+        Gravida sem libero class ridiculus accumsan faucibus semper ni
+        si bibendum integer, facilisi enim facilisis fames nisl cursus varius egestas pharetra. Dui magna arcu pulvinar semper sed ante euismod ornare, porta lacinia condimentum faucibus in vehicula mattis odio, sem dapibus mauris vivamus cubilia nisl convallis. Erat pretium vitae condimentum egestas vehicula gravida in tellus, dictumst ornare plate
+
+        </string>
+
+</resources>
